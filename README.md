@@ -54,20 +54,6 @@ NILEG2
 __________________________________________________________________________________________________________________________________________________
 
 
-N)n   nn      /)? I)iiii      /)? L)            /)? E)eeeeee      /)?   G)gggg      /)?  2)AAA
-N)nn  nn     /)?    I)       /)?  L)           /)?  E)           /)?   G)          /)?  2)   AA
-N) nn nn    /)?     I)      /)?   L)          /)?   E)eeeee     /)?   G)  ggg     /)?       2)
-N)  nnnn   /)?      I)     /)?    L)         /)?    E)         /)?    G)    gg   /)?       2)
-N)   nnn  /)?       I)    /)?     L)        /)?     E)        /)?      G)   gg  /)?       2)
-N)    nn /)?      I)iiii /)?      L)llllll /)?      E)eeeeee /)?        G)ggg  /)?      2)AAAAA
-T)tttttt  O)oooo   O)oooo  L)          () T)tttttt  M)mm mmm  ))
-T)    O)    oo O)    oo L)        ()      T)    M)  mm  mm   ))
-T)    O)    oo O)    oo L)       ()       T)    M)  mm  mm    ))
-T)    O)    oo O)    oo L)       ()       T)    M)  mm  mm    ))
-T)    O)    oo O)    oo L)        ()      T)    M)      mm   ))
-T)     O)oooo   O)oooo  L)llllll    ()    T)    M)      mm ))
-
-
 
 
 
